@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LinkedinBanner](https://github.com/jahidcs/jahidcs/assets/107682648/adbddeff-15c1-49a7-ab27-2bc35b383528)
+![Jahid Linkedin Banner](https://github.com/user-attachments/assets/a8f05d47-0bf0-48ec-a825-feff98714cad)
